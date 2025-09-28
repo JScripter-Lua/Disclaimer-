@@ -29,7 +29,7 @@ Compkiller:Loader("rbxassetid://4483362458", 2).yield();
 
 -- Creating Window with dark theme
 local Window = Compkiller.new({
-    Name = "Aurora Hex",
+    Name = "Aorora Hex",
     Keybind = "LeftAlt",
     Logo = "rbxassetid://4483362458",
     TextSize = 15,
